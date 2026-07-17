@@ -7,7 +7,7 @@ NixOS config. Edit `squad-fleet.nix`, `nixos-rebuild`, done.
 
 ### 1. Clone
 ```bash
-git clone https://github.com/CHANGE_ME/squad-nixos-fleet.git
+git clone https://github.com/Ziad0dev/squad-nixos-fleet.git
 cd squad-nixos-fleet
 ```
 
